@@ -1,0 +1,188 @@
+VS Code Shortcuts Cheat Sheet for Smart Coders
+
+General Shortcuts
+
+Ctrl + P → Quick Open (Search files)
+
+Ctrl + Shift + P → Command Palette
+
+Ctrl + , → Open Settings
+
+Ctrl + B → Toggle Sidebar
+
+Ctrl + J → Toggle Terminal
+
+Ctrl + Shift + N → Open New Window
+
+Ctrl + W → Close Current Tab
+
+Editing Shortcuts
+
+Alt + Up/Down → Move Line Up/Down
+
+Shift + Alt + Up/Down → Duplicate Line
+
+Ctrl + D → Select Next Occurrence
+
+Ctrl + Shift + L → Select All Occurrences
+
+Ctrl + X → Cut Entire Line
+
+Ctrl + / → Toggle Comment
+
+Ctrl + ] / [` → Indent/Outdent
+
+Ctrl + Enter → Insert Line Below
+
+Ctrl + Shift + Enter → Insert Line Above
+
+Shift + Alt + Left/Right → Shrink/Expand Selection
+
+Navigation & Multi-Cursor
+
+Ctrl + Tab → Switch Between Open Files
+
+Ctrl + Shift + T → Reopen Closed Tab
+
+Ctrl + K, Ctrl + O → Open Folder
+
+Ctrl + Alt + Up/Down → Add Multi-Cursor
+
+*Ctrl + Shift + * → Jump to Matching Bracket
+
+Ctrl + M → Toggle Tab Moves Focus
+
+Refactoring & Debugging
+
+F2 → Rename Symbol
+
+Ctrl + Shift + F → Global Search
+
+Ctrl + H → Replace
+
+Ctrl + Shift + H → Global Replace
+
+Ctrl + . → Quick Fix & Refactor
+
+F5 → Start Debugging
+
+F9 → Toggle Breakpoint
+
+Terminal & Git
+
+Ctrl + ` → Toggle Integrated Terminal
+
+Ctrl + Shift + C → Open New Terminal
+
+Ctrl + Shift + G → Open Source Control (Git)
+
+Ctrl + K + U → Stage All Changes
+
+Ctrl + K + R → Discard Changes
+
+Extensions & Productivity
+
+Ctrl + Shift + X → Open Extensions
+
+Ctrl + K, Ctrl + S → Open Keyboard Shortcuts
+
+Ctrl + K, Ctrl + 0 → Collapse All Folders in Explorer
+
+----------------------------------------------------------------------------------------------------------------------------------
+VS Code Shortcuts Cheat Sheet for Front-End Developers
+
+General Shortcuts
+
+Ctrl + P → Quick Open (Search files)
+
+Ctrl + Shift + P → Command Palette
+
+Ctrl + , → Open Settings
+
+Ctrl + B → Toggle Sidebar
+
+Ctrl + J → Toggle Terminal
+
+Ctrl + Shift + N → Open New Window
+
+Ctrl + W → Close Current Tab
+
+Editing Shortcuts
+
+Alt + Up/Down → Move Line Up/Down
+
+Shift + Alt + Up/Down → Duplicate Line
+
+Ctrl + D → Select Next Occurrence
+
+Ctrl + Shift + L → Select All Occurrences
+
+Ctrl + X → Cut Entire Line
+
+Ctrl + / → Toggle Comment
+
+Ctrl + ] / [` → Indent/Outdent
+
+Ctrl + Enter → Insert Line Below
+
+Ctrl + Shift + Enter → Insert Line Above
+
+Shift + Alt + Left/Right → Shrink/Expand Selection
+
+Navigation & Multi-Cursor
+
+Ctrl + Tab → Switch Between Open Files
+
+Ctrl + Shift + T → Reopen Closed Tab
+
+Ctrl + K, Ctrl + O → Open Folder
+
+Ctrl + Alt + Up/Down → Add Multi-Cursor
+
+*Ctrl + Shift + * → Jump to Matching Bracket
+
+Ctrl + M → Toggle Tab Moves Focus
+
+Front-End Development Shortcuts
+
+Ctrl + E, Ctrl + E → Emmet Expand Abbreviation
+
+Ctrl + Shift + [ / ] → Fold/Unfold Code Blocks
+
+Alt + Click → Add Multiple Cursors
+
+Ctrl + Shift + I → Format Code (Prettier)
+
+Ctrl + Shift + M → Show Errors and Warnings
+
+Ctrl + Shift + U → Convert to Uppercase/Lowercase
+
+Debugging & Live Preview
+
+F12 → Go to Definition
+
+Ctrl + Click → Peek Definition
+
+Ctrl + Shift + V → Open Markdown Preview
+
+Ctrl + Shift + P, then type Live Server: Open with Live Server → Start Live Server
+
+Terminal & Git
+
+Ctrl + ` → Toggle Integrated Terminal
+
+Ctrl + Shift + C → Open New Terminal
+
+Ctrl + Shift + G → Open Source Control (Git)
+
+Ctrl + K + U → Stage All Changes
+
+Ctrl + K + R → Discard Changes
+
+Extensions & Productivity
+
+Ctrl + Shift + X → Open Extensions
+
+Ctrl + K, Ctrl + S → Open Keyboard Shortcuts
+
+Ctrl + K, Ctrl + 0 → Collapse All Folders in Explorer
